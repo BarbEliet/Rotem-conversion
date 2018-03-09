@@ -2,4 +2,5 @@ conversion function needed:
 
 - dollars to cents
 - gallons to litres
-- housrs to minutes
+- hours to minutes
+- feet to inches
